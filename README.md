@@ -44,3 +44,4 @@ Major settings to be changed based on the default optimal settings:<br><br>
 * HPET: enabled
 * CSM support: enabled disabled
 * BIOS → Advanced Mode → Settings → Re-Size BAR Support, choose “Auto” (from version OC 0.7.5)
+* USB declared via DSDT by [https://www.hackintosh-forum.de/user/34281-apfelnico/](apfelnico) (from version OC 0.7.5)
