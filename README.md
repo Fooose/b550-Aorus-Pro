@@ -26,8 +26,7 @@ Update to LucyRTL8125Ethernet.kext Vers.(1.1.0d8) -->lan fix no longer required.
 
 
 
-Bios:
-[https://download.gigabyte.com/FileList/BIOS/mb_bios_b550-aorus-pro_f14e.zip?v=257ab98d48bfbaeffcbdf6857f430e24](Bios) | Unfortunately, sleep does not work for me with all versions after F12.<br><br>
+Bios: https://download.gigabyte.com/FileList/BIOS/mb_bios_b550-aorus-pro_f14e.zip?v=257ab98d48bfbaeffcbdf6857f430e24 | Unfortunately, sleep does not work for me with all versions after F12.<br><br>
 
 Major settings to be changed based on the default optimal settings:<br><br>
 * deactivate I2C and ESPI (essential to solve the random freeze problem) it must be in BIOS (advanced mode) under Settings -> AMD CBS -> FCH Common Options NEW BiosVersion 14c, no longer necessary
@@ -44,4 +43,4 @@ Major settings to be changed based on the default optimal settings:<br><br>
 * HPET: enabled
 * CSM support: enabled disabled
 * BIOS → Advanced Mode → Settings → Re-Size BAR Support, choose “Auto” (from version OC 0.7.5)
-* USB declared via DSDT by [https://www.hackintosh-forum.de/forum/thread/54986-usb-mittels-ssdt-deklarieren/?postID=724306#post724306](apfelnico) (from version OC 0.7.5)
+* USB declared via DSDT by https://www.hackintosh-forum.de/forum/thread/54986-usb-mittels-ssdt-deklarieren/?postID=724306#post724306 (apfelnico) (from version OC 0.7.5)
