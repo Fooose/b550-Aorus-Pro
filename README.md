@@ -37,7 +37,7 @@ Major settings to be changed based on the default optimal settings:<br><br>
 * enable power loading in Platform Power settings (may contribute to a better stability)
 * setup fan profiles
 * Other relevant default settings:
-* Above 4G Decoding: disabled enabled (bootoption: ncpi=2000 removed)
+* Above 4G Decoding: disabled → enabled (bootoption: ncpi=2000 removed)
 * Resizable BAR support disabled
 * XHCI Hand-off: enabled
 * HPET: enabled
