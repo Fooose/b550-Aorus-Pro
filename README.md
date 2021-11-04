@@ -41,6 +41,6 @@ Major settings to be changed based on the default optimal settings:<br><br>
 * Resizable BAR support disabled
 * XHCI Hand-off: enabled
 * HPET: enabled
-* CSM support: enabled disabled
+* CSM support: enabled → disabled
 * BIOS → Advanced Mode → Settings → Re-Size BAR Support, choose “Auto” (from version OC 0.7.5)
 * USB declared via DSDT by https://www.hackintosh-forum.de/forum/thread/54986-usb-mittels-ssdt-deklarieren/?postID=724306#post724306 (apfelnico) (from version OC 0.7.5)
