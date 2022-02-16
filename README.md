@@ -15,7 +15,7 @@ GPU: Sapphire RX5500 XT<br>
 RAM: 32 GB 3200<br>
 Festplatte: M2 1TB<br>
 Audio Device: ALC 1220<br>
-macOS Version: 12.0.1 (20G165)<br>
+macOS Version: 12<br>
 SMBIOS: iMacPro 1.1 macPro7.1<br>
 Bootloader: OpenCore<br><br>
 
