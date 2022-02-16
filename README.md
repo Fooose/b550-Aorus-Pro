@@ -5,7 +5,7 @@ Welcome to the b550-Aorus-Pro wiki!<br><br>
 
 
 Motherboard: Gigabyte B550 Aorus Pro | rev. 1.0 <br>
-Bios: F14e | 2021.10.13.<br>
+Bios: F14 (2022/01/13)<br>
 Major vulnerabilities updates, customers are strongly encouraged to update to this release at the earliest.
 Credits to "Assaf Carlsbad and Itai Liba from SentinelOne"
 • Introduce capsule BIOS support starting this version.
@@ -17,7 +17,7 @@ Festplatte: M2 1TB<br>
 Audio Device: ALC 1220<br>
 macOS Version: 12.0.1 (20G165)<br>
 SMBIOS: iMacPro 1.1 macPro7.1<br>
-OpenCore Version: 0.7.5-Release<br><br>
+Bootloader: OpenCore<br><br>
 
 Hello, everyone, I finally got my system (Ryzen3700x, B550AorusPro, RX5500XT) up and running - everything works, including (Sound,Bluetooth,CPU_Temp,etc). For all who are not so patient I provide my debug-EFI. Who still has tips and optimizations, can share them with me, especially regarding USB-mapping. So, now have fun!
 
