@@ -5,7 +5,7 @@ Welcome to the b550-Aorus-Pro wiki!<br><br>
 
 
 Motherboard: Gigabyte B550 Aorus Pro | rev. 1.0 <br>
-Bios: F14 (2022/01/13)<br>
+Bios: F15c (2022/05/11)<br>
 Major vulnerabilities updates, customers are strongly encouraged to update to this release at the earliest.
 Credits to "Assaf Carlsbad and Itai Liba from SentinelOne"
 • Introduce capsule BIOS support starting this version.
