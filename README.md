@@ -1,5 +1,5 @@
 Welcome to the b550-Aorus-Pro wiki!<br><br>
-**Update: 2022/07/08**
+**Update: 2022/08/01**
 
 ![B550 Aorus Pro](https://royjonesmusic.publicvm.com/opencore/B550.png)
 
@@ -16,7 +16,7 @@ RAM: 32 GB 3200<br>
 Festplatte: M2 1TB<br>
 Audio Device: ALC 1220<br>
 macOS Version: 12<br>
-SMBIOS: iMacPro 1.1 macPro7.1<br>
+SMBIOS: <del>iMacPro 1.1</del> macPro7.1<br>
 Bootloader: OpenCore<br><br>
 
 Hello, everyone, I finally got my system (Ryzen3700x, B550AorusPro, RX5500XT) up and running - everything works, including (Sound,Bluetooth,CPU_Temp,etc). For all who are not so patient I provide my debug-EFI. Who still has tips and optimizations, can share them with me, especially regarding USB-mapping. So, now have fun!
