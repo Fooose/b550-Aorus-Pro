@@ -12,7 +12,7 @@ Welcome to the b550-Aorus-Pro wiki!<br><br>
 * RAM: 32 GB 3200
 * Festplatte: M2 1TB
 * Audio Device: ALC 1220
-* SMBIOS: iMacPro 1.1 macPro7.1
+* SMBIOS: ~~iMacPro 1.1~~ macPro7.1
 
 
 Hello, everyone, I finally got my system (Ryzen3700x, B550AorusPro, RX5500XT) up and running - everything works, including (Sound,Bluetooth,CPU_Temp,etc). For all who are not so patient I provide my debug-EFI. Who still has tips and optimizations, can share them with me, especially regarding USB-mapping. So, now have fun!
