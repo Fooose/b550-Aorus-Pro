@@ -35,11 +35,11 @@ Major settings to be changed based on the default optimal settings:
 * enable power loading in Platform Power settings (may contribute to a better stability)
 * setup fan profiles
 * Other relevant default settings:
-* Above 4G Decoding: disabled →enabled (bootoption: ncpi=2000 removed)
+* Above 4G Decoding: ~~disabled~~ →enabled (bootoption: ncpi=2000 removed)
 * Resizable BAR support disabled
 * XHCI Hand-off: enabled
 * HPET: enabled
-* CSM support: enabled →disabled
+* CSM support: ~~enabled~~ →disabled
 * BIOS → Advanced Mode → Settings → Re-Size BAR Support, choose “Auto” (from version OC 0.7.5)
-* USB declared via DSDT by https://www.hackintosh-forum.de/user/34281-apfelnico/ (from version OC 0.7.5) until OC 0.8.4
+* ~~USB declared via DSDT by https://www.hackintosh-forum.de/user/34281-apfelnico/ (from version OC 0.7.5)~~ until OC 0.8.4
 * USB via SSDT (SSDT-B550-PTXH-TO-XHC2, SSDT-B550-XHC0-TO-XHC) defines.(vers. OC 0.8.5)
