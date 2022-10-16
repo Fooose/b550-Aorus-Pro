@@ -21,14 +21,14 @@ Best regards Fooose
 
 LAN-Fix-Realtek® 2.5GbE LAN : open Terminal: "sudo ifconfig en0 media 1000baseT mediaopt full-duplex"
 Thanks DSM2!
-Update to LucyRTL8125Ethernet.kext Vers.(1.1.0d8) -->lan fix no longer required.
+~~Update to LucyRTL8125Ethernet.kext Vers.(1.1.0d8) -->lan fix~~ no longer required.
 
 Bios: F15 Unfortunately, sleep does not work for me with all versions after F12.
 
 Major settings to be changed based on the default optimal settings:
 
-* deactivate I2C and ESPI (essential to solve the random freeze problem) it must be in BIOS (advanced mode) under Settings -> AMD CBS -> FCH Common Options * NEW BiosVersion 14c, no longer necessary
-* if applicable, set PCIe slot to Gen4 instead of Auto (may contribute to a better stability) NEW BiosVersion 14c, no longer necessary
+* ~~deactivate I2C and ESPI (essential to solve the random freeze problem) it must be in BIOS (advanced mode) under Settings -> AMD CBS -> FCH Common Options * NEW BiosVersion 14c~~ no longer necessary
+* ~~if applicable, set PCIe slot to Gen4 instead of Auto (may contribute to a better stability) NEW BiosVersion 14c~~ no longer necessary
 * enable X.M.P. memory profile
 * disable trusted computing
 * disable wake and boot over LAN
