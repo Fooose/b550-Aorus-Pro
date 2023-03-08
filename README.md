@@ -5,7 +5,7 @@ Welcome to the b550-Aorus-Pro wiki!<br><br>
 
 
 * Motherboard: Gigabyte B550 Aorus Pro | rev. 1.0
-* Bios: F15 (2022.07.20)
+* Bios: F16b (2022.02.08)
 * Major vulnerabilities updates, customers are strongly encouraged to update to this release at the earliest. Credits to "Assaf Carlsbad and Itai Liba from * SentinelOne" • Introduce capsule BIOS support starting this version.
 * CPU: Ryzen 7 3700x
 * GPU: Sapphire RX5500 XT
