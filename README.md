@@ -1,5 +1,5 @@
 Welcome to the b550-Aorus-Pro wiki!<br><br>
-**Update: 2023/03/08**
+**Update: 2023/04/04**
 
 ![B550 Aorus Pro](https://royjonesmusic.publicvm.com/opencore/B550.png)
 
