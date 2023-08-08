@@ -1,7 +1,7 @@
 Welcome to the b550-Aorus-Pro wiki!<br><br>
 **Update: 2023/21/06**
 
-![B550 Aorus Pro](https://royjonesmusic.publicvm.com/opencore/B550.png)
+![B550 Aorus Pro](https://royjonesmusic.home-webserver.de/opencore/B550.png)
 
 
 * Motherboard: Gigabyte B550 Aorus Pro | rev. 1.0
